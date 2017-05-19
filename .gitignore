@@ -1,0 +1,10 @@
+/logs/app.log
+/logs/testdox.html
+/logs/coverage/*
+.DS_Store
+.DS_Store?
+.Trashes
+ehthumbs.db
+Thumbs.db
+nbproject/*
+app/Config/fb_settings.php
